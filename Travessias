@@ -1,0 +1,18 @@
+[
+  {
+    "idRelatoTravessia": 1,
+    "TituloRelatoTravessia": "Caminhos do Mato Dentro",
+    "AutorRelatoTravessia": "Hélio Jr",
+    "DescricaoCurtaRelatoTravessia": "Brasil afora, mato adentro. Trilhas, travessias e cachoeiras.",
+    "ImagemRelatoTravessia_M": "https://www.facebook.com/photo.php?fbid=2094787853943123&set=a.100797920008803&type=3&theater",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com"
+  },
+  {
+    "idRelatoTravessia": 2,
+    "TituloRelatoTravessia": "Chico trekking",
+    "AutorRelatoTravessia": "Francisco de Assis Cardoso",
+    "DescricaoCurtaRelatoTravessia": "Relatos, dicas e informações",
+    "ImagemRelatoTravessia": "https://www.facebook.com/photo.php?fbid=10210509077506465&set=a.1645636184044&type=3&theater",
+    "LinkUrlRelatoTravessia": "https://www.chicotrekking.com.br"
+  }
+]
