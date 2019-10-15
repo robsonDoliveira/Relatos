@@ -12,7 +12,15 @@
     "TituloRelatoTravessia": "Chico trekking",
     "AutorRelatoTravessia": "Francisco de Assis Cardoso",
     "DescricaoCurtaRelatoTravessia": "Relatos, dicas e informações",
-    "ImagemRelatoTravessia": "https://www.facebook.com/photo.php?fbid=10210509077506465&set=a.1645636184044&type=3&theater",
+    "ImagemRelatoTravessia": "https://scontent.fudi1-2.fna.fbcdn.net/v/t1.0-9/18527805_10210509077506465_7253162712365470329_n.jpg?_nc_cat=101&_nc_oc=AQmF4cCtqTGIq8FEE0vr8BuOCtPIaV9coj6TfNPZ6ifKm-xIPKyMwJtZAzhzXA08jfc&_nc_ht=scontent.fudi1-2.fna&oh=0b1dee5037f26c48aa27211fb9372d02&oe=5E345803",
     "LinkUrlRelatoTravessia": "https://www.chicotrekking.com.br"
+  },
+   {
+    "idRelatoTravessia": 3,
+    "TituloRelatoTravessia": "AventureBox",
+    "AutorRelatoTravessia": "Divanei Goes de Paula",
+    "DescricaoCurtaRelatoTravessia": "Vinte anos me dedicando as grandes trilhas e travessias pelo Brasil e por alguns países da América do Sul.",
+    "ImagemRelatoTravessia": "https://aventurebox.com/uf/563f5bb456051/profile/563f5e8744ab3-4.jpg",
+    "LinkUrlRelatoTravessia": "https://aventurebox.com/divanei"
   }
 ]
